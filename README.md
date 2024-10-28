@@ -28,7 +28,7 @@ To set up and run the Electricity Bill Payment System, follow these steps:
 1. Clone the Repository:
 
    ```bash
-   git clone https://github.com/yourusername/electricity-bill-payment-system.git
+   git clone https://github.com/buddyjewel/electricity-bill-payment-system.git
    cd electricity-bill-payment-system
    ```
 
